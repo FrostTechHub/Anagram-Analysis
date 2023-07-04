@@ -6,7 +6,7 @@
 I have written two algorithms to check whether the given strings are an anagram. As part of the test, I wondered how long it would
 take for both algorithms to run if the number of characters in the given strings differed. So that you know, the results are in seconds.
 Here is the result:</p>
-<br>
+
 <h4>ALGORITHM #1</h4>
 - 3-Character Word:   0.0010128021240234375    seconds
 - 10-Character Word:  0.009965181350708008     seconds
