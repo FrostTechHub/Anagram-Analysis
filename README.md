@@ -1,10 +1,10 @@
 # Anagram-Analysis
 
-* What is an Anagram?
-It is a word or phrase formed by rearranging the letters to form a new word or phrase. It typically uses all of the original letters exactly once!
+<h3>What is an Anagram?</h3>
+<p>It is a word or phrase formed by rearranging the letters to form a new word or phrase. It typically uses all of the original letters exactly once!
 
-I have wrote two algorithms to check if the given strings are indeed an anagram. As part of the test, I wondered how long it would
-take for both algorithms run if the number of characters in the given strings were different. Do note that the results are in seconds.
+I have written two algorithms to check whether the given strings are an anagram. As part of the test, I wondered how long it would
+take for both algorithms to run if the number of characters in the given strings differed. So that you know, the results are in seconds.
 Here is the result:
 
 ============================================================
@@ -19,5 +19,5 @@ ALGORITHM #2
 10-Character Word:  0.001962900161743164    seconds
 ============================================================
 
-As you can see, if the given strings are 3-characters long, Algorithm #1 would run the fastest. However, if the strings are 10-characters long, 
-Algorithm #2 would run the fastests. Why is that so? Stay Tune...
+If the given strings are three characters long, Algorithm #1 will run the fastest. However, if the strings are 10-characters long, 
+Algorithm #2 would run the fastest. Why is that so? Stay Tune...</p>
