@@ -8,11 +8,11 @@ take for both algorithms to run if the number of characters in the given strings
 Here is the result:</p>
 
 <h4>ALGORITHM #1</h4>
-- 3-Character Word:   0.0010128021240234375    seconds
+- 3-Character Word:   0.0010128021240234375    seconds<br>
 - 10-Character Word:  0.009965181350708008     seconds
 <br><br>
 <h4>ALGORITHM #2</h4>
-- 3-Character Word:   0.001001119613647461    seconds
+- 3-Character Word:   0.001001119613647461    seconds<br>
 - 10-Character Word:  0.001962900161743164    seconds
 <br><br>
 <p>If the given strings are three characters long, Algorithm #1 will run the fastest. However, if the strings are 10-characters long, 
